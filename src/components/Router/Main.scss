@@ -1,0 +1,11 @@
+.main{
+    flex: 1 0 auto;
+}
+
+.menu{
+    border-bottom: 1px solid #000;
+    a{
+        text-decoration: none;
+        font-size: calc(7px + 2vmin);
+      }
+}
